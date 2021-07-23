@@ -1,0 +1,6 @@
+[submodule "qemu_stm32"]
+	path = qemu_stm32
+	url = https://github.com/beckus/qemu_stm32
+[submodule "stm32_p103_demos"]
+	path = stm32_p103_demos
+	url = https://github.com/beckus/stm32_p103_demos.git
